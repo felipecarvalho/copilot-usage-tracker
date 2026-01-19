@@ -9,6 +9,12 @@ A SwiftBar/xbar menu bar widget that shows your GitHub Copilot premium request u
 - Days until monthly reset
 - Quick link to GitHub Copilot settings
 
+## Screenshot
+
+<p align="center">
+  <img src="screenshot.png" alt="Copilot Usage Widget" width="300">
+</p>
+
 ## Requirements
 
 - macOS
